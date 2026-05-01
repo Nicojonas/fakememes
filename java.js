@@ -4,10 +4,7 @@ const menuToggle = document.querySelector('.menu-toggle');
 const navMenu = document.querySelector('nav');
 const navLinks = document.querySelectorAll('nav a');
 
-menuToggle.addEventListener('click', () => {
-  navMenu.classList.toggle('active');
-  menuToggle.classList.toggle('open');
-});
+
 
 /* close menu when a link is clicked (mobile UX) */
 navLinks.forEach(link => {
