@@ -2,7 +2,7 @@
 /* ================= MENU TOGGLE ================= */
 const menuToggle = document.querySelector('.menu-toggle');
 const navMenu = document.querySelector('nav');
-const navLinks = document.querySelectorAll('nav a');
+this is not want i want
 
 
 
