@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #05070f;
+  color: #dbe4ff;
+  overflow-x: hidden;
+  position: relative;
+}
