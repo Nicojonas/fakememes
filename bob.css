@@ -2,7 +2,11 @@ html {
   scroll-behavior: smooth;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD:bob.css
   box-sizing: initial;
+=======
+  box-sizing: content-box;
+>>>>>>> make2:new.css
 }
 
 body {
